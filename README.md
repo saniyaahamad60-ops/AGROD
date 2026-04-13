@@ -63,7 +63,6 @@ flask run
 gunicorn "main:app" --bind 0.0.0.0:5000
 ```
 
-7. Access the application at `http://localhost:5000`
 
 ## Database Setup
 
